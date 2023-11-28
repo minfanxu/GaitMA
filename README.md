@@ -1,5 +1,4 @@
 # GaitMA
-# GaitMA
 <div align="center">
   <img src="/Image/pipeline.jpg">
 </div>
