@@ -8,3 +8,9 @@ Gait recognition is a biometric technology that recognizes the identity of human
 
 ### Model
 ![图片](/Image/pipeline.jpg)
+Framework of our proposed GaitMA.
+
+### Code
+Project code will be released in the near future...
+
+If you have any problem, no hesitate contact us at minfanxu@stu.ouc.edu.cn
