@@ -1,5 +1,6 @@
 # GaitMA
 GaitMA: Pose-guided Multi-modal Feature Fusion for Gait Recogniton
+
 ICME 2024 under review
 
 ### Abstract
